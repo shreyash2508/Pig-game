@@ -1,3 +1,5 @@
+'use strict'
+
 'use Strict';
 
 // Selecting elements
